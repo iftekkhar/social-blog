@@ -1,0 +1,6 @@
+.paper {
+  padding: 20px;
+}
+.paper h1 {
+  text-transform: capitalize;
+}
