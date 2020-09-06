@@ -1,6 +1,10 @@
 .paper {
   padding: 20px;
 }
-.paper h1 {
+.paper h1 a {
   text-transform: capitalize;
+  color: #333;
+}
+.blog-post img {
+  width: 100%;
 }

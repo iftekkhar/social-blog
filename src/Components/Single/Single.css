@@ -1,0 +1,22 @@
+.comment-single {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  padding: 10px;
+  background: #ededed;
+}
+.comment-section {
+  padding: 20px;
+  background: #f5f5f5;
+  border-radius: 5px;
+}
+.single-post img {
+  width: 100%;
+}
+.single-post {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.single-post h1 {
+  text-transform: uppercase;
+}
